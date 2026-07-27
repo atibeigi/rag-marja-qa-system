@@ -47,6 +47,6 @@
 ```bash
 rag-marja-qa-system/
 ├── notebooks/
-│   └── NLU_HW3_Beigi.ipynb
+│   └── rag_marja_qa_system.ipynb
 ├── requirements.txt
 └── README.md
