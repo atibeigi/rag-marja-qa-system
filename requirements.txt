@@ -1,0 +1,10 @@
+pandas
+numpy
+rank_bm25
+nltk
+hazm
+transformers
+torch
+matplotlib
+langchain-google-genai
+google-generativeai
